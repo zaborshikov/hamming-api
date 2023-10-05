@@ -1,2 +1,2 @@
 ## Hamming API
-This project help you generate, check and correct Hamming codes.
+This project helps you generate, check and correct Hamming codes.
